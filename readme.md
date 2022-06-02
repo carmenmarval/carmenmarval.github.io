@@ -8,21 +8,20 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto Boo's Book
+**Titulo** : Boo's Book
 
 **Web:**   (url github.io)
 
 **Autor:**  Carmen Martínez 
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
-
+**Resumen** : Este proyecto trata sobre el libro de recuerdos de un fantasma llamado Boo. Para superar cada nivel se debe encontrar la fotografía perdida.
 **Estilo/género:**  Juego
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px tamaño fijo (72PPP) (indicar la que has aplicado, y si es reescalable)
 
 **Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
 
@@ -30,12 +29,12 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 3/06/2022
 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
-- Instagram
+-Twitter:
 
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
@@ -85,7 +84,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a niños +5 años
 
 
 
@@ -128,13 +127,16 @@ Este  proyecto es interesante porque ...
 **Recursos y materiales audiovisuales:**
 
 * Musica:  
-* Imágenes:  
-* Tipografía
+* Imágenes:  Carmen Martínez Valdivieso
+* Tipografía: Cotton Cloud, Impact, Palatino.
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Photoshop CS6
+- Adobe Premiere
+- Audacity
+
 
 
 
