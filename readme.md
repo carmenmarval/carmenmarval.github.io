@@ -10,11 +10,12 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Boo's Book
 
-**Web:**   (url github.io)
+**Web:**   (https://carmenmarval.github.io/)
 
 **Autor:**  Carmen Martínez Valdivieso
 
 **Resumen** : Este proyecto trata sobre el libro de recuerdos de un fantasma llamado Boo. Para superar cada nivel se debe encontrar la fotografía perdida dentro de él.
+
 **Estilo/género:**  Juego 
 
 **Logotipo** : 
@@ -106,29 +107,36 @@ Al comienzo del proyecto no tenía muy claro lo que quería hacer. Lo que sí te
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego: 
+- Juego: En este juego lo he diseñado con un recorrido muy claro. En primer lugar, realicé un breve teaser donde se pueden ver los elementos principales del juego. En segundo lugar, encontramos una introducción donde tenemos que descubrir donde esta oculto el libro de Boo. Estos dos primeros pasos no fueron difíciles de resolver pues solo presentan botones que nos llevan a diferentes escenas y alguna secuencia de imagen. Posteriormente, encontramos un menú donde podemos ver imágenes, videos, créditos e ir a los niveles. Esta parte fue un poco más compplicada por los vídeos y la colocación de todos los elementos. Ya en los niveles, mover el personaje fue un tanto complejo pues mi juego consta de 6 niveles, cada uno de ellos partido en 3 pantallas diferentes, por lo que debía repetir una serie de funciones de Javascrip bastante confusa. Seguidamente, encontramos el quiz que aparece al final de cada nivel, que también fue algo lioso y cansado, pues debía repetir el mismo proceso 6 veces. Finalmente, el código del cofre, algo más sencillo de añadir, nos lleva a un desenlace del juego.
 - Video: Realizar los videos incorporados en la galería de imágenes fue un trabajo laborioso. En primer lugar, descargé unos videos de youtube que incorporaban croma key. En segundo lugar, para poder colocar las imágenes deseadas en esos videos descargé la aplicación Kinemaster, que permite editar videos con imágenes usando croma key. Posteriormente, con la Adobe Premier hicé transiciónes en el video de zoom in y zoom of.  A la hora de exportar traté que pesase lo menos posible, quedando finalmente con un tamaño de 9 MB y 13 MB.
-- Instrucciones y ayuda al usuario: En la galería de imágenes aparecen fotografías que ayudan a comprender la mecánica del juego.
+- Sonido: En este juego encontramos tres sonidos clave de fondo: La música inicial, la música de los niveles y la música del cofre. También encontramos otros sonidos al pulsar botones, acertar preguntas... Colocar el sonido del videojuego no fue muy complicado.
+- Instrucciones y ayuda al usuario: No es muy compleja la mecánica del juego, en la galería de imágenes aparecen fotografías que ayudan a comprenderla.
 - Menús y elementos de navegación (botones): Los botones del juego son muy sencillos he intuitivos. Podemos encontrar varios tipos de botones: 
+
 +Botón nube: te lleva a la mayoría de escenas (juegos, galería de imágenes, créditos...)
+
 +Botón libro: al pulsarlo se pasan las páginas del libro.
+
 +Botón casa: te lleva al inicio o a la pantalla de niveles.
+
 +Botónes de movilidad: para mover el personaje hacia los lados o arriba y abajo.
+
 +Botones del código de cofre: sirven para introducir el código que abre el cofre.
+
 +Botón engranaje: te lleva a los ajustes de sonido.
 
 Además, hay otros elementos que actúan como botones como las fotografías de cada nivel, las tumbas del inicio...  
 
 
 ### Etapa 3: Problemas identificados
-Uno de los problemas principales es el peso del archivo, pues introducí muchas secuencias de imagen en el juego. Esto requería incorporar muchas imágenes, por lo que el juego en sí pesa demasiado. 
+Uno de los problemas principales es el peso del archivo, pues introducí muchas secuencias de imagen en el juego. Esto requería incorporar muchas imágenes, por lo que el juego en sí pesa bastante. 
 
 # 4. Conclusiones 
 
 
 La programación siempre me ha llamado la atención aunque nunca antes había entrado en contacto con ella y menos para realizar un juego. Para ser la primera vez que me aventuro en algo así, creo que he obtenido muy buenos resultados. Aunque durante el proceso me he agobiado un poco y he tenido que tener mucha paciencia, finalmente me ha encantado realizar este juego. Esto quizás me motive en futuro a realizar más cosas de este estilo.
 
-Como valoración final considero que mi proyecto presenta adecuadamente todo lo que se ha requerido en cada práctica y está realmente cuidado.
+Como valoración final considero que mi proyecto presenta adecuadamente todo lo que se ha requerido en cada práctica y está realmente cuidado. 
 
 
 # 5 Referencias 
@@ -139,7 +147,10 @@ Como valoración final considero que mi proyecto presenta adecuadamente todo lo 
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
+* Musica: cc patrickdearteaga.com https://patrickdearteaga.com/es/musica-libre-derechos-gratis/
+
+cc https://lamusicagratis.com/
+
 * Imágenes:  Carmen Martínez Valdivieso
 * Tipografía: Cotton Cloud, Impact, Palatino.
 
