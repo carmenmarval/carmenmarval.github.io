@@ -30,7 +30,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resolución:** 800x600px tamaño fijo (72PPP) (reescalable)
 
-**Probado en:**   Probado en Google Chrome, dispositivo andorid,    / MS Edge...)
+**Probado en:**   Probado en Google Chrome, dispositivo android, MS Edge
 
 **Tamaño proyecto:** 82,2 MB 
 
@@ -84,8 +84,9 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- Juego online (http://www.superjocs.com/x-playgame-1018) para el diseño del personaje Boo.
+- Proyecto Juan José Gutiérrez Calvo (https://mrfrancli.github.io/) para la idea de buscar fotografías (trozos de fotografía en su caso) en el juego.
+- Esquema de navegación Rosa Caracuel Morales (https://github.com/batstuff/batstuff.github.io#etapa-2-desarrollo--actividades-realizadas) para el diseño de mi esquema de navegación.
 
 
 
@@ -105,7 +106,7 @@ Al comienzo del proyecto no tenía muy claro lo que quería hacer. Lo que sí te
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
+
 
 - Juego: En este juego lo he diseñado con un recorrido muy claro. En primer lugar, realicé un breve teaser donde se pueden ver los elementos principales del juego. En segundo lugar, encontramos una introducción donde tenemos que descubrir donde esta oculto el libro de Boo. Estos dos primeros pasos no fueron difíciles de resolver pues solo presentan botones que nos llevan a diferentes escenas y alguna secuencia de imagen. Posteriormente, encontramos un menú donde podemos ver imágenes, videos, créditos e ir a los niveles. Esta parte fue un poco más compplicada por los vídeos y la colocación de todos los elementos. Ya en los niveles, mover el personaje fue un tanto complejo pues mi juego consta de 6 niveles, cada uno de ellos partido en 3 pantallas diferentes, por lo que debía repetir una serie de funciones de Javascrip bastante confusa. Seguidamente, encontramos el quiz que aparece al final de cada nivel, que también fue algo lioso y cansado, pues debía repetir el mismo proceso 6 veces. Finalmente, el código del cofre, algo más sencillo de añadir, nos lleva a un desenlace del juego.
 - Video: Realizar los videos incorporados en la galería de imágenes fue un trabajo laborioso. En primer lugar, descargé unos videos de youtube que incorporaban croma key. En segundo lugar, para poder colocar las imágenes deseadas en esos videos descargé la aplicación Kinemaster, que permite editar videos con imágenes usando croma key. Posteriormente, con la Adobe Premier hicé transiciónes en el video de zoom in y zoom of.  A la hora de exportar traté que pesase lo menos posible, quedando finalmente con un tamaño de 9 MB y 13 MB.
