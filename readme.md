@@ -59,7 +59,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-![ESQUEMA DE NAVEGACION](https://user-images.githubusercontent.com/106731452/171995447-ba4baa96-9a6d-4e48-8dd9-b3c91d3c3c35.jpg)
+
+![ESQUEMA NAVEGACION](https://user-images.githubusercontent.com/106731452/171996869-d4cbfc6e-7c8e-40db-94e5-d281060624e3.jpg)
 
 
 
