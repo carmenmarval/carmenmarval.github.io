@@ -12,27 +12,27 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Web:**   (url github.io)
 
-**Autor:**  Carmen Martínez 
+**Autor:**  Carmen Martínez Valdivieso
 
-**Resumen** : Este proyecto trata sobre el libro de recuerdos de un fantasma llamado Boo. Para superar cada nivel se debe encontrar la fotografía perdida.
-**Estilo/género:**  Juego
+**Resumen** : Este proyecto trata sobre el libro de recuerdos de un fantasma llamado Boo. Para superar cada nivel se debe encontrar la fotografía perdida dentro de él.
+**Estilo/género:**  Juego 
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : 
+![logo](https://user-images.githubusercontent.com/106731452/171988068-1d97add0-0821-4a3e-bcd8-a8ded35511f4.png)
 
-(insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px tamaño fijo (72PPP) (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Resolución:** 800x600px tamaño fijo (72PPP) (reescalable)
 
-**Tamaño proyecto:** 14MB 
+**Probado en:**   Probado en Google Chrome, dispositivo andorid,    / MS Edge...)
+
+**Tamaño proyecto:** 82,2 MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
 **Fecha** : 3/06/2022
 
-**Medios** (donde se tiene presencia relacionada):
-
+**Medios** 
 - Github:
 -Twitter:
 
