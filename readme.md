@@ -34,11 +34,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Fecha** : 3/06/2022
 
 **Medios** 
-- Github:
--Twitter:
+- Github: https://github.com/carmenmarval/carmenmarval.github.io
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+![boo](https://user-images.githubusercontent.com/106731452/171992455-e23d30e6-31ee-466b-8ad6-29d0bfff9165.png)
+
 
 # 2. Memoria del proyecto 
 
