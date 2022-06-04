@@ -44,6 +44,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 ![booo111](https://user-images.githubusercontent.com/106731452/171992085-4c2908f0-d6d0-41e6-a774-891964cc2f0b.png)
+![booooo222](https://user-images.githubusercontent.com/106731452/171992153-81e0f462-d009-4d8f-965c-773974af566d.png)
+![boo333](https://user-images.githubusercontent.com/106731452/171992295-b7764252-718b-47b9-bdee-990f81205dab.png)
 
 
 
