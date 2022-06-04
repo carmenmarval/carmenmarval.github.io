@@ -37,7 +37,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Github: https://github.com/carmenmarval/carmenmarval.github.io
 
 
-![boo](https://user-images.githubusercontent.com/106731452/171992455-e23d30e6-31ee-466b-8ad6-29d0bfff9165.png)
+![boo](https://user-images.githubusercontent.com/106731452/171992505-c968d1e7-0ed6-441b-a3d1-c4f02f4f8b31.png)
+
 
 
 # 2. Memoria del proyecto 
@@ -79,13 +80,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Al comienzo del proyecto no tenía muy claro lo que quería hacer. Lo que sí tenía claro es que quería que mi juego tratase sobre una búsqueda de algún objeto dentro de niveles. A raíz de esa idea fui desarollando Boo's Book.
 
 
 
 **Publico / audiencia**
 
-- Orientado a niños +5 años
+- Orientado a niños (+5 años)
 
 
 
@@ -95,28 +96,29 @@ Este  proyecto es interesante porque ...
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Juego: 
+- Video: Realizar los videos incorporados en la galería de imágenes fue un trabajo laborioso. En primer lugar, descargé unos videos de youtube que incorporaban croma key. En segundo lugar, para poder colocar las imágenes deseadas en esos videos descargé la aplicación Kinemaster, que permite editar videos con imágenes usando croma key. Posteriormente, con la Adobe Premier hicé transiciónes en el video de zoom in y zoom of.  A la hora de exportar traté que pesase lo menos posible, quedando finalmente con un tamaño de 9 MB y 13 MB.
+- Instrucciones y ayuda al usuario: En la galería de imágenes aparecen fotografías que ayudan a comprender la mecánica del juego.
+- Menús y elementos de navegación (botones): Los botones del juego son muy sencillos he intuitivos. Podemos encontrar varios tipos de botones: 
++Botón nube: te lleva a la mayoría de escenas (juegos, galería de imágenes, créditos...)
++Botón libro: al pulsarlo se pasan las páginas del libro.
++Botón casa: te lleva al inicio o a la pantalla de niveles.
++Botónes de movilidad: para mover el personaje hacia los lados o arriba y abajo.
++Botones del código de cofre: sirven para introducir el código que abre el cofre.
++Botón engranaje: te lleva a los ajustes de sonido.
 
+Además, hay otros elementos que actúan como botones como las fotografías de cada nivel, las tumbas del inicio...  
 
 
 ### Etapa 3: Problemas identificados
-
-(que consideras que no  funciona correctamente y por qué )
-
-
+Uno de los problemas principales es el peso del archivo, pues introducí muchas secuencias de imagen en el juego. Esto requería incorporar muchas imágenes, por lo que el juego en sí pesa demasiado. 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
 
+La programación siempre me ha llamado la atención aunque nunca antes había entrado en contacto con ella y menos para realizar un juego. Para ser la primera vez que me aventuro en algo así, creo que he obtenido muy buenos resultados. Aunque durante el proceso me he agobiado un poco y he tenido que tener mucha paciencia, finalmente me ha encantado realizar este juego. Esto quizás me motive en futuro a realizar más cosas de este estilo.
 
-
-
-
+Como valoración final considero que mi proyecto presenta adecuadamente todo lo que se ha requerido en cada práctica y está realmente cuidado.
 
 
 # 5 Referencias 
@@ -137,12 +139,12 @@ Este  proyecto es interesante porque ...
 - Photoshop CS6
 - Adobe Premiere
 - Audacity
+- Kinemaster
 
 
-
-
-(imagen de la licencia, copiar y pegar aquí la correcta)
 
 https://creativecommons.org/licenses/?lang=es
+![ppp](https://user-images.githubusercontent.com/106731452/171994153-c30c535a-2689-4034-9cd3-bb0454b291ca.png)
+
 
 Mayo 2020
