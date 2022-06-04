@@ -142,7 +142,7 @@ Como valoración final considero que mi proyecto presenta adecuadamente todo lo 
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
+
 
 - Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
