@@ -18,6 +18,10 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Estilo/género:**  Juego 
 
 **Logotipo** : 
+
+
+
+
 ![logo](https://user-images.githubusercontent.com/106731452/171988809-e29561ee-3058-4949-8a3b-ac8783d863bf.png)
 
 
@@ -37,7 +41,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Github: https://github.com/carmenmarval/carmenmarval.github.io
 
 
-![boo](https://user-images.githubusercontent.com/106731452/171992505-c968d1e7-0ed6-441b-a3d1-c4f02f4f8b31.png)
+![boooo](https://user-images.githubusercontent.com/106731452/171994201-eaf746f5-3601-4a1b-9f77-1fc6a399e3e7.png)
 
 
 
