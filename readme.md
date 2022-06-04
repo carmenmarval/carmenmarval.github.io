@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Boo's Book
 
-**Web:**   (https://carmenmarval.github.io/)
+**Web:**   https://carmenmarval.github.io/
 
 **Autor:**  Carmen Martínez Valdivieso
 
