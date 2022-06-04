@@ -16,7 +16,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resumen** : Este proyecto trata sobre el libro de recuerdos de un fantasma llamado Boo. Para superar cada nivel se debe encontrar la fotografía perdida dentro de él.
 
-**Estilo/género:**  Juego 
+**Estilo/género:**  Juego, aventura gráfica.
 
 **Logotipo** : 
 
@@ -148,7 +148,9 @@ Como valoración final considero que mi proyecto presenta adecuadamente todo lo 
 
 **Recursos y materiales audiovisuales:**
 
-* Musica: cc patrickdearteaga.com https://patrickdearteaga.com/es/musica-libre-derechos-gratis/
+* Musica:
+
+cc patrickdearteaga.com https://patrickdearteaga.com/es/musica-libre-derechos-gratis/
 
 cc https://lamusicagratis.com/
 
@@ -162,7 +164,6 @@ cc https://lamusicagratis.com/
 - Adobe Premiere
 - Audacity
 - Kinemaster
-
 
 
 https://creativecommons.org/licenses/?lang=es
