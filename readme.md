@@ -68,6 +68,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
+![ESQUEMA NAVEGACION 2](https://user-images.githubusercontent.com/106731452/171997732-0e2a17ce-53ef-40a1-9161-e43d6a73e7e0.jpg)
+
+
+
+
 # 3. Metodología
 
 Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
