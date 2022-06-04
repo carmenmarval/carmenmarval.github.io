@@ -59,7 +59,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![ESQUEMA DE NAVEGACION](https://user-images.githubusercontent.com/106731452/171995447-ba4baa96-9a6d-4e48-8dd9-b3c91d3c3c35.jpg)
+
 
 
 
@@ -148,6 +149,10 @@ Como valoración final considero que mi proyecto presenta adecuadamente todo lo 
 
 
 https://creativecommons.org/licenses/?lang=es
+
+
+
+
 ![ppp](https://user-images.githubusercontent.com/106731452/171994153-c30c535a-2689-4034-9cd3-bb0454b291ca.png)
 
 
