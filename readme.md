@@ -30,7 +30,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resolución:** 800x600px tamaño fijo (72PPP) (reescalable)
 
-**Probado en:**   Probado en Google Chrome, dispositivo android, MS Edge
+**Probado en:**   Probado en Google Chrome, dispositivo android, MS Edge, dispositivo IOS
 
 **Tamaño proyecto:** 67.8 MB 
 
