@@ -108,8 +108,8 @@ Al comienzo del proyecto no tenía muy claro lo que quería hacer. Lo que sí te
 
 
 
-- Juego: En este juego lo he diseñado con un recorrido muy claro. En primer lugar, realicé un breve teaser donde se pueden ver los elementos principales del juego. En segundo lugar, encontramos una introducción donde tenemos que descubrir donde esta oculto el libro de Boo. Estos dos primeros pasos no fueron difíciles de resolver pues solo presentan botones que nos llevan a diferentes escenas y alguna secuencia de imagen. Posteriormente, encontramos un menú donde podemos ver imágenes, videos, créditos e ir a los niveles. Esta parte fue un poco más compplicada por los vídeos y la colocación de todos los elementos. Ya en los niveles, mover el personaje fue un tanto complejo pues mi juego consta de 6 niveles, cada uno de ellos partido en 3 pantallas diferentes, por lo que debía repetir una serie de funciones de Javascrip bastante confusa. Seguidamente, encontramos el quiz que aparece al final de cada nivel, que también fue algo lioso y cansado, pues debía repetir el mismo proceso 6 veces. Finalmente, el código del cofre, algo más sencillo de añadir, nos lleva a un desenlace del juego.
-- Video: Realizar los videos incorporados en la galería de imágenes fue un trabajo laborioso. En primer lugar, descargé unos videos de youtube que incorporaban croma key. En segundo lugar, para poder colocar las imágenes deseadas en esos videos descargé la aplicación Kinemaster, que permite editar videos con imágenes usando croma key. Posteriormente, con la Adobe Premier hicé transiciónes en el video de zoom in y zoom of.  A la hora de exportar traté que pesase lo menos posible, quedando finalmente con un tamaño de 9 MB y 13 MB.
+- Juego: Este juego lo he diseñado con un recorrido muy claro. En primer lugar, realicé un breve teaser donde se pueden ver los elementos principales del juego. En segundo lugar, encontramos una introducción donde tenemos que descubrir donde esta oculto el libro de Boo. Estos dos primeros pasos no fueron difíciles de resolver pues solo presentan botones que nos llevan a diferentes escenas y alguna secuencia de imagen. Posteriormente, encontramos un menú donde podemos ver imágenes, videos, créditos e ir a los niveles. Esta parte fue un poco más complicada por los vídeos y la colocación de todos los elementos. Ya en los niveles, mover el personaje fue un tanto complejo pues mi juego consta de 6 niveles, cada uno de ellos partido en 3 pantallas diferentes, por lo que debía repetir una serie de funciones de Javascrip bastante confusa. Seguidamente, encontramos el quiz que aparece al final de cada nivel, que también fue algo lioso y cansado, pues debía repetir el mismo proceso 6 veces. Finalmente, el código del cofre, algo más sencillo de añadir, nos lleva a un desenlace del juego.
+- Video: Realizar los videos incorporados en la galería de imágenes fue un trabajo laborioso. En primer lugar, descargé unos videos de youtube que incorporaban croma key. En segundo lugar, para poder colocar las imágenes deseadas en esos videos descargé la aplicación Kinemaster, que permite editar videos con imágenes usando croma key. Posteriormente, con la Adobe Premier hicé transiciónes en el video de zoom in y zoom of.  A la hora de exportar traté que pesase lo menos posible, quedando finalmente con un tamaño de 3,80 MB y 2,24 MB.
 - Sonido: En este juego encontramos tres sonidos clave de fondo: La música inicial, la música de los niveles y la música del cofre. También encontramos otros sonidos al pulsar botones, acertar preguntas... Colocar el sonido del videojuego no fue muy complicado.
 - Instrucciones y ayuda al usuario: No es muy compleja la mecánica del juego, en la galería de imágenes aparecen fotografías que ayudan a comprenderla.
 - Menús y elementos de navegación (botones): Los botones del juego son muy sencillos he intuitivos. Podemos encontrar varios tipos de botones: 
@@ -130,7 +130,8 @@ Además, hay otros elementos que actúan como botones como las fotografías de c
 
 
 ### Etapa 3: Problemas identificados
-Uno de los problemas principales es el peso del archivo, pues introducí muchas secuencias de imagen en el juego. Esto requería incorporar muchas imágenes, por lo que el juego en sí pesa bastante. 
+Uno de los problemas principales es el peso del archivo, pues introducí muchas secuencias de imagen en el juego. Esto requería incorporar muchas imágenes, por lo que el juego en sí pesa bastante. Aún así, el juego funciona bien.
+
 
 # 4. Conclusiones 
 
@@ -163,6 +164,7 @@ cc https://lamusicagratis.com/
 - Photoshop CS6
 - Adobe Premiere
 - Audacity
+- Avidemux
 - Kinemaster
 
 
