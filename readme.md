@@ -36,7 +36,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 3/06/2022
+**Fecha** : 06/06/2022
 
 **Medios** 
 - Github: https://github.com/carmenmarval/carmenmarval.github.io
